@@ -7,7 +7,8 @@ punchline turns the advice back on the therapist.
 The line is written to be judged on the competition's own brief:
   1. A stranger gets it in one read: therapist, face your fears, bank app.
   2. Surprise: the fear is not a phobia but a bank balance, and the
-     therapist ends up needing therapy too.
+     therapist screams at it too — then bills the patient for her own
+     session.
   3. Tight: every word earns its place, the laugh lands at the end.
   4. Fresh: a new turn on the familiar "face your fears" advice, not a
      stock joke.
@@ -21,7 +22,7 @@ import os
 
 LINE = (
     "My therapist told me to face my fears, so I opened my bank app "
-    "\u2014 now we're both in therapy."
+    "\u2014 she screamed, then billed me for her own session."
 )
 
 OUTPUT_PATH = "/output/entry.txt"
